@@ -21,7 +21,7 @@ s.islower() # checa se todos os chars de uma string são minúsculos
 s.isspace() # checa se todos os chars de uma string são espaços
 s.istitle() # checa se a primeira palavra de uma string tá capitalizada
 s.isupper() # checa se todos os chars de uma string são maiúsculos
-s.endswith('o') # checa se uma strinf termina com um argumento passado
+s.endswith('o') # checa se uma string termina com um argumento passado
 s.split('o') # corta a string em cada aparição do argumento passado e retorna uma lista das partes
 s.partition('o') # corta a string na primeira aparição do argumento passado e retorna uma lista das partes
 
